@@ -23,3 +23,6 @@ Hugo File Structure
 
 ## Basic Help 
 For quick commands use `hugo -h`
+
+## Github Page
+- https://juicyjuice1100.github.io/boulder-coop/
